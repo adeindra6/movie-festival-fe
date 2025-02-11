@@ -30,10 +30,12 @@
                         <th style="width: 30px;">No</th>
                         <th style="width: 200px;">Title</th>
                         <th style="width: 350px;">Description</th>
-                        <th style="width: 150px;">Duration</th>
+                        <th style="width: 100px;">Duration</th>
                         <th style="width: 200px;">Artists</th>
-                        <th style="width: 200px;">Genres</th>
-                        <th style="width: 400px;">Watch URL</th>
+                        <th style="width: 100px;">Genres</th>
+                        <th style="width: 350px;">Watch URL</th>
+                        <th style="width: 100px;">Viewership</th>
+                        <th style="width: 200px;">Action</th>
                     </tr>
                 </thead>
             </table>
