@@ -1,4 +1,6 @@
-# movie-festival-fe
+# Movie Festival System
+Welcome to Movie Festival System Frontend Website
+To setup this website you can do the following methods below:
 
 ## Project setup
 ```
@@ -20,5 +22,13 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# About this website
+In this website, if you are an admin you can do:
+1. Create Movies
+2. Update Movies
+3. See Movies' analytics (Most Viewed Movie and Genre)
+
+And if you are only an user or guest you can do:
+1. See list of available movies
+2. Search movies
+3. Track movies viewership
