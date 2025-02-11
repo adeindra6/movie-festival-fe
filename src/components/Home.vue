@@ -18,6 +18,7 @@
             <button class="btn btn-primary button-search">Search</button>
         </div>
         <div class="col-md-6 mt-5 filter-row">
+            <router-link class="btn btn-info" to="/analytics">Movie Analytics</router-link>
         </div>
     </div>
 
